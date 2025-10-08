@@ -1,11 +1,11 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
-  <img src="https://i.imgur.com/imOAWEN.jpeg" width="300" height="300"/>
+  <img src="https://i.ibb.co/v6Nj0yc4/temp.jpg" width="300" height="300"/>
   <h1>MIKAZA - ＭＤ</h1>
 
 <a href="https://github.com/Godzenox00"><img title="Creator" src="https://img.shields.io/badge/Creator-ZENOX-red.svg?style=for-the-badge&logo=github"></a>
 <br>
-<a href="https://github.com/Godzenox00?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ZENOX?color=green&style=flat-square"></a>
+<a href="https://github.com/mikazaa-akerman/mikaza/?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ZENOX?color=green&style=flat-square"></a>
 <a href="https://github.com/Godzenox00/NEZUKO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Godzenox00/NEZUKO-MD?color=white&style=flat-square"></a>
 <a href="https://github.com/Godzenox00/NEZUKO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Godzenox00/NEZUKO-MD?color=yellow&style=flat-square"></a>
 <div align="left"
@@ -86,7 +86,7 @@ NB : Change Buildpack to dockerfile if default is bulidpack in builder section.
 
  Go to Environment Variables and edit and use
 
-### 2. To Run Nezuko Bot 24×7
+### 2. To Run MikaZa Bot 24×7
     
  Use uptimer 
  https://uptimerobot.com/
@@ -95,12 +95,12 @@ Create a moniter.
    
 ### sᴜᴘᴘᴏʀᴛ ᴍᴇ
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/safeershafo">
-  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mhdh.faizl?igsh=ZTNjamI2Z3RmcGxj">
+  <img src="https://i.ibb.co/jPgMsQbS/temp.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
-- [Oggy](https://github.com/mksir12) For partnership<br>
+- [asmodeus](https://github.com/mksir12) For partnership<br>
 - [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
 - [Aswin sparky](https://github.com/A-S-W-I-N-S-P-A-R-K-Y) For help<br>
  <br><br>
