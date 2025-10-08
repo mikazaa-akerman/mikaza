@@ -96,12 +96,11 @@ Create a moniter.
 ### sᴜᴘᴘᴏʀᴛ ᴍᴇ
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mhdh.faizl?igsh=ZTNjamI2Z3RmcGxj">
-  <img src="https://i.ibb.co/jPgMsQbS/temp.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+  <img src="https://i.ibb.co/jPgMsQbS/temp.jpg" alt="FOLLOW ME" height="40" width="150" style="margin-left: 60px;">
 </a>
 
   ### ᴛʜᴀɴᴋs ᴛᴏ
-- [asmodeus](https://github.com/mksir12) For partnership<br>
-- [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
-- [Aswin sparky](https://github.com/A-S-W-I-N-S-P-A-R-K-Y) For help<br>
+- [mksir](https://github.com/mksir12) For partnership<br>
+ For help<br>
  <br><br>
  
